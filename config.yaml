@@ -5,7 +5,6 @@ theme: mediumish-gohugo-theme
 summaryLength: 15
 copyright: Thiyanga S. Talagala and Priyanga D. Talagala - All rights reserved
 enableEmoji: true
-publishDir: docs
 params:
   author:
     description: Dr. Thiyanga S. Talagala and Dr Priyanga D. Talagala
