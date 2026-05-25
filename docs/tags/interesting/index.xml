@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interesting on Data Analysis with R</title>
+    <link>https://r4fun.netlify.app/tags/interesting/</link>
+    <description>Recent content in interesting on Data Analysis with R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thiyanga S. Talagala and Priyanga D. Talagala - All rights reserved</copyright>
+    <lastBuildDate>Mon, 16 Aug 2021 11:39:16 +0200</lastBuildDate><atom:link href="https://r4fun.netlify.app/tags/interesting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6. Reproducible reporting with RMarkdown</title>
+      <link>https://r4fun.netlify.app/blog/topic6/</link>
+      <pubDate>Mon, 16 Aug 2021 11:39:16 +0200</pubDate>
+      
+      <guid>https://r4fun.netlify.app/blog/topic6/</guid>
+      <description>Resourses IASSL WOrkshop Slides: Click here
+SLAAS Workshop Slides: Click here</description>
+    </item>
+    
+    <item>
+      <title>10. Introduction to statistical modelling in R</title>
+      <link>https://r4fun.netlify.app/blog/topic10/</link>
+      <pubDate>Thu, 12 Aug 2021 11:40:11 +0200</pubDate>
+      
+      <guid>https://r4fun.netlify.app/blog/topic10/</guid>
+      <description>IASSL Workshop 👷 Click here: Introduction to statistical modelling in R
+SLAAS Workshop 👷 Click here: Introduction to statistical modelling in R</description>
+    </item>
+    
+    <item>
+      <title>11. Writing Functions in R</title>
+      <link>https://r4fun.netlify.app/blog/topic11/</link>
+      <pubDate>Wed, 11 Aug 2021 11:40:11 +0200</pubDate>
+      
+      <guid>https://r4fun.netlify.app/blog/topic11/</guid>
+      <description>👷 Slides: Click here</description>
+    </item>
+    
+  </channel>
+</rss>
