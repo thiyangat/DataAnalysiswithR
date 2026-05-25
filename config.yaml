@@ -4,7 +4,7 @@ title: Data Analysis with R
 theme: mediumish-gohugo-theme
 summaryLength: 15
 copyright: Thiyanga S. Talagala and Priyanga D. Talagala - All rights reserved
-enableEmoji: yes
+enableEmoji: true
 publishDir: docs
 params:
   author:
